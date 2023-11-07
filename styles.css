@@ -22,7 +22,9 @@ nav{
     display: flex;
     justify-content: space-between;
 }
-
+.headertext>h1,h5{
+    margin-bottom: 7px;
+}
 nav>div{
     padding: 0% 5%;
 }
